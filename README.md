@@ -16,7 +16,7 @@ I create innovative services to make life better for everyone.
 -->
 
 ## Tech Stack
-Techs that I've used at least once<br>
+🚀🔥Technologies I have hands-on experience with <br>
 <img src="https://img.shields.io/badge/Android Studio-2EFE2E?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-E2A9F3?style=flat-square&logo=C&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
