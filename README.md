@@ -1,7 +1,7 @@
 
-Hi there 👋
+Hello 👋  
 
-I'm developing to make services that will improve our lives.
+I create innovative services to make life better for everyone.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
