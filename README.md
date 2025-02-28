@@ -48,8 +48,8 @@ Technologies I have hands-on experience with
 ## 🚩 2023
 | Period | Category | Activity | Notes |
 | :---: | :---: | ------ | :--: |
-| 🇦🇷 08.2023 - 12.2023 | Project | Assistant & Interpreter at NIA_Good Consulting Group Co. | Business coordination and international client communication |
-| 🇨🇷 2023 | Education | Licenciatura - Spanish Teaching at Universidad Americana | Graduated |
+| 08.2023 - 12.2023 | Project | Assistant & Interpreter at NIA_Good Consulting Group Co. | Business coordination and international client communication |
+| 2023 | Education | Licenciatura - Spanish Teaching at Universidad Americana | Graduated |
 
 ## 🚩 2022
 | Period | Category | Activity | Notes |
