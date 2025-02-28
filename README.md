@@ -36,18 +36,19 @@ Technologies I have hands-on experience with
 ## 🚩 2024
 | Period | Category | Activity | Notes |
 | :---: | :---: | ------ | :--: |
-| 🇰🇷 02.2024 - Present | Work | Youth Leader at Korean Association in Costa Rica | Organized events and facilitated communication |
-| 🇨🇷 07.2024 - 11.2024 | Work | Assistant & Interpreter at NIA_RaonSecure | Contributed to digital security discussions |
-| 🇨🇷 07.2024 | Project | Interpreter for NIPA_iMBK | Conducted pre-research for technology applications |
-| 🇰🇷 09.2024 | Project | Interpreter for NIPA_Myongji University | Facilitated remodeling discussions for K-LAP technology |
-| 🇰🇷 10.2024 | Project | Interpreter for NIA_Korea-Inter America Digital Government Forum | Assisted bilingual discussions on digital governance |
-| 🇨🇷 11.2024 | Project | Interpreter for CABEI_K-CAFTA Forum | Represented the Costa Rican Embassy |
-| 🇨🇷 11.2024 | Project | Interpreter for NIPA_ESP(Arduino) Course | Supported ESP educational workshops |
+| 02.2024 | Education | Bachelor’s in Computer Engineering at Tecnológico de Costa Rica | Enrolled |
+| 02.2024 - Present | volunteer | Youth Leader at Korean Association in Costa Rica | Organized events and facilitated communication |
+| 07.2024 - 11.2024 | Work | Assistant & Interpreter at NIA_RaonSecure | Contributed to digital security discussions |
+| 07.2024 | Project | Interpreter for NIPA_iMBK | Conducted pre-research for technology applications |
+| 09.2024 | Project | Interpreter for NIPA_Myongji University | Facilitated remodeling discussions for K-LAP technology |
+| 10.2024 | Project | Interpreter for NIA_Korea-Inter America Digital Government Forum | Assisted bilingual discussions on digital governance |
+| 11.2024 | Project | Interpreter for CABEI_K-CAFTA Forum | Represented the Costa Rican Embassy |
+| 11.2024 | Project | Interpreter for NIPA_ESP(Arduino) Course | Supported ESP educational workshops |
 
 ## 🚩 2023
 | Period | Category | Activity | Notes |
 | :---: | :---: | ------ | :--: |
-| 🇦🇷 08.2023 - 12.2023 | volunteer | Assistant & Interpreter at NIA_Good Consulting Group Co. | Business coordination and international client communication |
+| 🇦🇷 08.2023 - 12.2023 | Project | Assistant & Interpreter at NIA_Good Consulting Group Co. | Business coordination and international client communication |
 | 🇨🇷 2023 | Education | Licenciatura - Spanish Teaching at Universidad Americana | Graduated |
 
 ## 🚩 2022
