@@ -68,3 +68,8 @@ Technologies I have hands-on experience with
 | 2022 | Certification | Spanish Spelling Course | 30-hour course at Universidad de Costa Rica |
 
 ---
+## 🔗 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-lee-98b9a1212/)](https://www.linkedin.com/in/diego-lee-98b9a1212/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:s.lee.1@estudiantec.cr)](mailto:s.lee.1@estudiantec.cr)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/coreanito_diego/)](https://www.instagram.com/coreanito_diego/)
