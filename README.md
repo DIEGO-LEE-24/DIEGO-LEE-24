@@ -57,7 +57,7 @@ Technologies I have hands-on experience with
 
 | Period | Category | Activity | Notes |
 | :---: | :---: | ------ | :--: |
-| 08- 12 | Project | Assistant & Interpreter at MICITT (NIA_Good Consulting Group Co.) | Business coordination and international client communication |
+| 08- 12 | work | Assistant & Interpreter at MICITT (NIA_Good Consulting Group Co.) | Business coordination and international client communication |
 | 2023 | Education | Licenciatura - Spanish Teaching at Universidad Americana | Graduated |
 
 ## 🚩 2022
