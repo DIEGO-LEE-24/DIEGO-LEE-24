@@ -33,11 +33,19 @@ Technologies I have hands-on experience with
 ---
 # 📚 Activities
 
-## 🚩 2024
+## 🚩 2025
+
 | Period | Category | Activity | Notes |
 | :---: | :---: | ------ | :--: |
-| 02.2024 | Education | Bachelor’s in Computer Engineering at Tecnológico de Costa Rica | Enrolled |
-| 02.2024 - Present | volunteer | Youth Leader at Korean Association in Costa Rica | Organized events and facilitated communication |
+| 02.23 - 02.25 | Project | Assistant at 2025 AI Camp | [fotos](https://github.com/DIEGO-LEE-24/TEC_2025-1/tree/main/1_Actividades/2_AI%20CAMP) |
+| 02.22 | Workshop | Microsoft Power Platform Bootcamp - Invited Student | [Event Link](https://www.powerplatformbootcamp.com/2025/location-detail/?id=b461b559-73b6-ef11-95f5-000d3a0c14f8&city=Cartago) |
+
+## 🚩 2024
+
+| Period | Category | Activity | Notes |
+| :---: | :---: | ------ | :--: |
+| 2024 | Education | Bachelor’s in Computer Engineering at Tecnológico de Costa Rica | Enrolled |
+| 02.2024 - Present | Volunteer | Youth Leader at Korean Association in Costa Rica | Organized events and facilitated communication |
 | 07.2024 - 11.2024 | Work | Assistant & Interpreter at NIA_RaonSecure | Contributed to digital security discussions |
 | 07.2024 | Project | Interpreter for NIPA_iMBK | Conducted pre-research for technology applications |
 | 09.2024 | Project | Interpreter for NIPA_Myongji University | Facilitated remodeling discussions for K-LAP technology |
@@ -46,13 +54,17 @@ Technologies I have hands-on experience with
 | 11.2024 | Project | Interpreter for NIPA_ESP(Arduino) Course | Supported ESP educational workshops |
 
 ## 🚩 2023
+
 | Period | Category | Activity | Notes |
 | :---: | :---: | ------ | :--: |
 | 08.2023 - 12.2023 | Project | Assistant & Interpreter at NIA_Good Consulting Group Co. | Business coordination and international client communication |
 | 2023 | Education | Licenciatura - Spanish Teaching at Universidad Americana | Graduated |
 
 ## 🚩 2022
+
 | Period | Category | Activity | Notes |
 | :---: | :---: | ------ | :--: |
-| 🇨🇷 2022 | Certification | CISCO IT Essentials - PC Hardware and Software | 30-hour course at Universidad de Costa Rica |
-| 🇨🇷 2022 | Certification | Spanish Spelling Course | 30-hour course at Universidad de Costa Rica |
+| 2022 | Certification | CISCO IT Essentials - PC Hardware and Software | 30-hour course at Universidad de Costa Rica |
+| 2022 | Certification | Spanish Spelling Course | 30-hour course at Universidad de Costa Rica |
+
+---
