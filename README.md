@@ -37,7 +37,7 @@ Technologies I have hands-on experience with
 
 | Period | Category | Activity | Notes |
 | :---: | :---: | ------ | :--: |
-| 02.23 - 02.25 | Project | Assistant at 2025 AI Camp(in TEC) | [fotos](https://github.com/DIEGO-LEE-24/TEC_2025-1/tree/main/1_Actividades/2_AI%20CAMP) |
+| 02.23 - 02.25 | Project | Assistant at 2025 AI Camp(in TEC) | [fotos](https://github.com/DIEGO-LEE-24/TEC_2025-1/tree/main/1_Actividades/2_AI_CAMP) |
 | 02.22 | Workshop | Microsoft Power Platform Bootcamp - Invited Student | [Event Link](https://www.powerplatformbootcamp.com/2025/location-detail/?id=b461b559-73b6-ef11-95f5-000d3a0c14f8&city=Cartago) |
 
 ## 🚩 2024
