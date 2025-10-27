@@ -45,7 +45,7 @@ Technologies I have hands-on experience with
 | 10.17 | Volunteer | EXPO Corea - Jang Booth Staff | Korean Embassy |
 | 09 - 10 | Interpreter | Arduino & ESP32 Course Interpreter (20H) | K-LAB |
 | 08 - 12 | Project | Interpreter for MICITT (NIA_Korea-Inter America Digital Government Forum) | Assisted bilingual discussions on digital governance |
-| 08.07 - 08.08 | Interpreter | Seo Eui-cheol Gadan Korean Rhythm, Pansori Rehearsal & Event Interpreter | Korean Embassy |
+| 08.07 - 08.08 | Interpreter | Korean Rhythm, Pansori Rehearsal & Event Interpreter | Seo Eui-cheol Gadan, Korean Embassy |
 | 06.25 - 06.26 | Interpreter | Bitcoin Mining Company Lecture & Meeting Interpreter | Imine |
 | 06.07 | Volunteer | Traditional Korean Games Booth Operator | Korean Food Event, Korean Embassy |
 | 05.26 - 05.30 | Interpreter | Coloplast Verification Interpreter | Korea Customs Service, Seoul Main Customs |
