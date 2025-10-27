@@ -26,18 +26,31 @@ Technologies I have hands-on experience with
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2E2EFE?style=flat-square&logo=Java&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-F7FE2E?style=flat-square&logo=Django&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-FF0000?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0431B4?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFBF00?style=flat-square&logo=Javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white)
 
 ---
 # 📚 Activities
 
 ## 🚩 2025
-
 | Period | Category | Activity | Notes |
 | :---: | :---: | ------ | :--: |
-| 02.23 - 02.25 | Project | Assistant at 2025 AI Camp(in TEC) | [fotos](https://github.com/DIEGO-LEE-24/TEC_2025-1/tree/main/0_Actividades/2_AI_CAMP/assets) |
+| 10.17 | Volunteer | EXPO Corea - Jang Booth Staff | Korean Embassy |
+| 08 - 12 | Project | Interpreter for MICITT (NIA_Korea-Inter America Digital Government Forum) | Assisted bilingual discussions on digital governance |
+| 08.07 - 08.08 | Interpreter | Seo Eui-cheol Gadan Korean Rhythm, Pansori Rehearsal & Event Interpreter | |
+| 06.25 - 06.26 | Interpreter | Imine Bitcoin Mining Company Lecture & Meeting Interpreter | |
+| 06.07 | Volunteer | Traditional Korean Games Booth Operator | Korean Food Event, Korean Embassy |
+| 05.26 - 05.30 | Interpreter | Coloplast Verification Interpreter | Korea Customs Service, Seoul Main Customs |
+| 05.10 | MC | 2025 K-POP WORLD FESTIVAL | Korean Embassy in Costa Rica |
+| 03 - 10 | Interpreter | K-LAB 3D Printer Course Interpreter (30H) | |
+| 09 - 10 | Interpreter | K-LAB Arduino & ESP32 Course Interpreter (20H) | |
+| 02.23 - 02.25 | Project | Assistant at 2025 AI Camp (in TEC) | [fotos](https://github.com/DIEGO-LEE-24/TEC_2025-1/tree/main/0_Actividades/2_AI_CAMP/assets) |
 | 02.22 | Workshop | Microsoft Power Platform Bootcamp - Invited Student | [Event Link](https://www.powerplatformbootcamp.com/2025/location-detail/?id=b461b559-73b6-ef11-95f5-000d3a0c14f8&city=Cartago) |
 
 ## 🚩 2024
