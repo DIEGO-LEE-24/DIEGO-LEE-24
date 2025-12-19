@@ -65,7 +65,7 @@ Technologies I have hands-on experience with
 | 07 | Project | Interpreter for TEC (NIPA_iMBK) | Conducted pre-research for technology applications |
 | 09 | Project | Interpreter for TEC (NIPA_Myongji University) | Facilitated remodeling discussions for K-LAP technology |
 | 10 | Project | Interpreter for MICITT (NIA_Korea-Inter America Digital Government Forum) | Assisted bilingual discussions on digital governance |
-| 11 | Project | Interpreter for CABEI (K-CAFTA Forum) | Digital goverment |
+| 11 | Project | Interpreter for CABEI (K-CAFTA Forum) | Provided interpretation services for private, high-level sessions at the K-CAFTA Forum, facilitating communication among CABEI, Korean institutions, and Central American government and industry representatives |
 | 11 | Project | Interpreter for TEC [NIPA_ESP(Arduino) Course] | Supported ESP educational workshops |
 
 ## 🚩 2023
