@@ -38,21 +38,22 @@ Technologies I have hands-on experience with
 ---
 # 📚 Activities
 
-## 🚩 2025
-| Period | Category | Activity | Notes |
-| :---: | :---: | ------ | :--: |
-| 10.20 - 10.27 | Translator | Ministry of Food and Drug Safety Document Translation (Korean-Spanish) | OriginTranslate |
-| 10.17 | Volunteer | EXPO Corea - Jang Booth Staff | Korean Embassy |
-| 09 - 10 | Interpreter | Arduino & ESP32 Course Interpreter (20H) | K-LAB |
-| 08 - 12 | Project | Interpreter for MICITT (NIA_Korea-Inter America Digital Government Forum) | Assisted bilingual discussions on digital governance |
-| 08.07 - 08.08 | Interpreter | Korean Rhythm, Pansori Rehearsal & Event Interpreter | Seo Eui-cheol Gadan, Korean Embassy |
-| 06.25 - 06.26 | Interpreter | Bitcoin Mining Company Lecture & Meeting Interpreter | Imine |
-| 06.07 | Volunteer | Traditional Korean Games Booth Operator | Korean Food Event, Korean Embassy |
-| 05.26 - 05.30 | Interpreter | Coloplast Verification Interpreter | Korea Customs Service, Seoul Main Customs |
-| 05.10 | MC | 2025 K-POP WORLD FESTIVAL | Korean Embassy in Costa Rica |
-| 03 - 10 | Interpreter | 3D Printer Course Interpreter (30H) | K-LAB |
-| 02.23 - 02.25 | Project | Assistant at 2025 AI Camp (in TEC) | [fotos](https://github.com/DIEGO-LEE-24/TEC_2025-1/tree/main/0_Actividades/2_AI_CAMP/assets) |
-| 02.22 | Workshop | Microsoft Power Platform Bootcamp - Invited Student | [Event Link](https://www.powerplatformbootcamp.com/2025/location-detail/?id=b461b559-73b6-ef11-95f5-000d3a0c14f8&city=Cartago) |
+|     Period    |   Category  | Activity                                                                  |                         Notes                        |
+| :-----------: | :---------: | ------------------------------------------------------------------------- | :--------------------------------------------------: |
+| 11.26 - 11.27 | Interpreter | BIM-CON Conference – Korean Expressway Corporation (MOPT, CFIA)           |           Conference & private interpreting          |
+| 10.20 - 10.27 |  Translator | Ministry of Food and Drug Safety Document Translation (Korean-Spanish)    |                    OriginTranslate                   |
+|     10.17     |  Volunteer  | EXPO Corea - Jang Booth Staff                                             |                    Korean Embassy                    |
+|    09 - 10    | Interpreter | Arduino & ESP32 Course Interpreter (20H)                                  |                         K-LAB                        |
+|    08 - 12    |   Project   | Interpreter for MICITT (NIA_Korea-Inter America Digital Government Forum) | Assisted bilingual discussions on digital governance |
+| 08.07 - 08.08 | Interpreter | Korean Rhythm, Pansori Rehearsal & Event Interpreter                      |          Seo Eui-cheol Gadan, Korean Embassy         |
+| 06.25 - 06.26 | Interpreter | Bitcoin Mining Company Lecture & Meeting Interpreter                      |                         Imine                        |
+|     06.07     |  Volunteer  | Traditional Korean Games Booth Operator                                   |           Korean Food Event, Korean Embassy          |
+| 05.26 - 05.30 | Interpreter | Coloplast Verification Interpreter                                        |       Korea Customs Service, Seoul Main Customs      |
+|     05.10     |      MC     | 2025 K-POP WORLD FESTIVAL                                                 |             Korean Embassy in Costa Rica             |
+|    03 - 10    | Interpreter | 3D Printer Course Interpreter (30H)                                       |                         K-LAB                        |
+| 02.23 - 02.25 |   Project   | Assistant at 2025 AI Camp (TEC)                                           |                   Photos available                   |
+|     02.22     |   Workshop  | Microsoft Power Platform Bootcamp – Invited Student                       |                    Official event                    |
+
 
 ## 🚩 2024
 
